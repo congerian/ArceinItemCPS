@@ -1,0 +1,5 @@
+name: ItemCPS
+main: ru.arcein.plugins.itemcps.ItemCPS
+version: 0.0.2
+depend: []
+softdepend: [MMOItems]
